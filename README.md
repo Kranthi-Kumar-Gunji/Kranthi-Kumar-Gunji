@@ -55,8 +55,11 @@ I specialize in building **scalable data pipelines, interactive dashboards, and 
 ---
 
 ## 📬 Let’s Connect  
-- 📧 Email: **kranthikumar0013@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/kranthikumargunji](https://linkedin.com/in/kranthikumargunji)  
-- 📊 Tableau Public: [public.tableau.com/app/profile/kranthi.kumar.gunji](https://public.tableau.com/app/profile/kranthi.kumar.gunji)  
+- 📧 **Email:** [kranthikumar0013@gmail.com](mailto:kranthikumar0013@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/kranthikumargunji](https://linkedin.com/in/kranthikumargunji)
+- 🌐 **Portfolio:** [https://kranthi-kumar-gunji.github.io/](https://kranthi-kumar-gunji.github.io/)  
+- 📊 **Tableau Public:** [https://public.tableau.com/app/profile/kranthi.kumar.gunji](https://public.tableau.com/app/profile/kranthi.kumar.gunji)  
+- 🧭 **Salesforce Trailhead:** [https://www.salesforce.com/trailblazer/kranthikumar2802](https://www.salesforce.com/trailblazer/kranthikumar2802)  
+- 🐙 **GitHub:** [https://github.com/Kranthi-Kumar-Gunji](https://github.com/Kranthi-Kumar-Gunji)
 
 ---
