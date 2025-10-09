@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kranthi Kumar Gunji  
+# 👋 Hi, I’m Kranthi Kumar Gunji                                                                                                      ![Profile Views](https://komarev.com/ghpvc/?username=Kranthi-Kumar-Gunji&label=Profile%20views&color=brightgreen&style=flat)
 
 💻 **Data Engineer | Salesforce Consultant | BI Developer | Data Scientist Intern**  
 
