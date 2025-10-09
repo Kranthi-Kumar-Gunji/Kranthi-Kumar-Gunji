@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Kranthi Kumar Gunji                                                                                                      ![Profile Views](https://komarev.com/ghpvc/?username=Kranthi-Kumar-Gunji&label=Profile%20views&color=brightgreen&style=flat)
-
+# 👋 Hi, I’m Kranthi Kumar Gunji                                                                                         
+---
 💻 **Data Engineer | Salesforce Consultant | BI Developer | Data Scientist Intern**  
 
 I specialize in building **scalable data pipelines, interactive dashboards, and data-driven solutions** that improve accuracy, accelerate insights, and support organizational growth. With 5+ years of experience in **CRM, ETL, BI, and cloud platforms**, I bring a blend of technical expertise and problem-solving skills across diverse industries.  
