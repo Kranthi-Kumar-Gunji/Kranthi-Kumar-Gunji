@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kranthi Kumar Gunji                                                                                         
+## 👋 Hi, I’m Kranthi Kumar Gunji                                                                                         
 
 💻 **Data Engineer | Salesforce Consultant | BI Developer | Data Scientist Intern**  
 
