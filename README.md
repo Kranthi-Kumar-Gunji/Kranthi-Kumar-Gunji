@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Kranthi Kumar Gunji                                                                                         
----
+
 💻 **Data Engineer | Salesforce Consultant | BI Developer | Data Scientist Intern**  
 
-I specialize in building **scalable data pipelines, interactive dashboards, and data-driven solutions** that improve accuracy, accelerate insights, and support organizational growth. With 5+ years of experience in **CRM, ETL, BI, and cloud platforms**, I bring a blend of technical expertise and problem-solving skills across diverse industries.  
+I specialise in building **scalable data pipelines, interactive dashboards, and data-driven solutions** that improve accuracy, accelerate insights, and support organisational growth. With 5+ years of experience in **CRM, ETL, BI, and cloud platforms**, I bring a blend of technical expertise and problem-solving skills across diverse industries.  
 
 ---
 
@@ -26,7 +26,7 @@ I specialize in building **scalable data pipelines, interactive dashboards, and 
   Automated approval workflows, triggers, and third-party integrations, cutting manual tasks by **35%** and streamlining cross-platform operations.  
 
 - **📈 Data Migration & Optimization (SAP BODS + HANA + Oracle)** [![SQL Projects](https://img.shields.io/badge/SQL-Analytics%20&%20Procedures-darkgreen?logo=postgresql&logoColor=white)](your-repo-link)  
-  Migrated critical datasets into SAP HANA, modeled analytical views, and reduced report latency by **60%**.  
+  Migrated critical datasets into SAP HANA, modelled analytical views, and reduced report latency by **60%**.  
 
 ---
 
@@ -55,12 +55,6 @@ I specialize in building **scalable data pipelines, interactive dashboards, and 
 ---
 
 
-### 📈 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kranthi-Kumar-Gunji&label=Profile%20views&color=brightgreen&style=flat)
-
----
-
 ## 📬 Let’s Connect  
 - 📧 **Email:** [kranthikumar0013@gmail.com](mailto:kranthikumar0013@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/kranthikumargunji](https://linkedin.com/in/kranthikumargunji)
@@ -68,5 +62,12 @@ I specialize in building **scalable data pipelines, interactive dashboards, and 
 - 📊 **Tableau Public:** [https://public.tableau.com/app/profile/kranthi.kumar.gunji](https://public.tableau.com/app/profile/kranthi.kumar.gunji)  
 - 🧭 **Salesforce Trailhead:** [https://www.salesforce.com/trailblazer/kranthikumar2802](https://www.salesforce.com/trailblazer/kranthikumar2802)  
 - 🐙 **GitHub:** [https://github.com/Kranthi-Kumar-Gunji](https://github.com/Kranthi-Kumar-Gunji)
+
+---
+
+
+### 📈 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kranthi-Kumar-Gunji&label=Profile%20views&color=brightgreen&style=flat)
 
 ---
