@@ -9,7 +9,7 @@ I specialize in building **scalable data pipelines, interactive dashboards, and 
 ## 🚀 About Me  
 - 🎓 Master’s in Information Systems @ Cleveland State University (2023–2025)  
 - 🛠 Skilled in **Python, SQL, Salesforce, Tableau, Power BI, SAP BODS, Informatica, AWS, Snowflake**  
-- 🔄 Experienced in **ETL, data engineering, BI visualization, CRM customization, and cloud integration**  
+- 🔄 Experienced in **ETL, data engineering, BI visualisation, CRM customisation, and cloud integration**  
 - 📊 Passionate about using **data science and analytics** to turn raw data into actionable insights  
 
 ---
@@ -51,6 +51,13 @@ I specialize in building **scalable data pipelines, interactive dashboards, and 
 
 ## 💡 Motto  
 *"Transforming raw data into reliable insights and smarter decisions."*  
+
+---
+
+
+### 📈 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kranthi-Kumar-Gunji&label=Profile%20views&color=brightgreen&style=flat)
 
 ---
 
